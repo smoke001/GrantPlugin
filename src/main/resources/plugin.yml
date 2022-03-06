@@ -1,0 +1,8 @@
+name: GrantPlugin
+main: ru.smokeed.grantplugin.Main
+author: smokeed_
+version: 1.0
+website: https://vk.com/smokeverfy
+
+commands:
+    grant:

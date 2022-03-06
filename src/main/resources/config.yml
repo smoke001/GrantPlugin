@@ -1,0 +1,24 @@
+MESSAGES:
+    NEW-RANK: "&a%player% ебать ты ему обновил донатик"
+
+INVENTORY:
+  SIZE: 54
+  TITLE: "&eВыдача донатика"
+
+RANKS:
+  OWNER:
+    MATERIAL: "BLAZE_POWDER"
+    DATA: 14
+    DISPLAY-NAME: "&cOWNER"
+    SLOT: 0
+    LORE:
+      - "&bНажми на меня <3"
+    COMMAND: "lp user %player% parent set owner"
+  ADMIN:
+    MATERIAL: "PAPER"
+    DATA: 3
+    DISPLAY-NAME: "&aADMIN"
+    SLOT: 1
+    LORE:
+      - "&bНажми на меня <3"
+    COMMAND: "lp user %player% parent set admin"
